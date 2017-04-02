@@ -1,0 +1,12 @@
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.exe.config
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.exe
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.pdb
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.csprojResolveAssemblyReference.cache
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.exe
+A:\..NET\ITVDN\C# Professional\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.exe.config
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.exe
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.exe
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\bin\Debug\Hneu.Crossplatform.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\Hneu.Crossplatform\Hneu.Crossplatform\obj\Debug\Hneu.Crossplatform.csprojResolveAssemblyReference.cache
